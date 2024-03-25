@@ -29,4 +29,4 @@ Discover your next great read with personalized recommendations tailored to your
 
 At Books For Everyone, we believe that reading should be accessible to all. That's why we offer a range of accessibility features, including audiobooks, large print editions, and screen reader compatibility, ensuring that everyone can enjoy the magic of storytelling.
 
-Are you ready to embark on a journey through the world of literature? Join us at Books For Everyone and experience the joy of reading like never before. Whether you're looking to explore new genres, unleash your creativity, or ignite a love of reading in the next generation, Books For Everyone has something for you. Sign up today and let your imagination take flight!
+#### Are you ready to embark on a journey through the world of literature? Join us at Books For Everyone and experience the joy of reading like never before. Whether you're looking to explore new genres, unleash your creativity, or ignite a love of reading in the next generation, Books For Everyone has something for you. Sign up today and let your imagination take flight!
